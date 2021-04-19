@@ -15,7 +15,8 @@
             "type": "action",
             "title": "Store",
             "url": "/store",
-            "style": "link"
+            "style": "link",
+            "arrow": true
         },
         {
             "type": "action",
